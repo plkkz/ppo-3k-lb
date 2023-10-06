@@ -1,40 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-10-06T07:40:38.122Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="jgxGVUHzSbOfwJA4PEkS" version="22.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-06T07:41:04.973Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="RLwvxAQ4w6IjfMoXTB0q" version="22.0.3" type="github">
   <diagram name="Страница — 1" id="UBM8uuqGAXcxDV0GicOs">
     <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="clbtRc7gnAqQqjOzCFej-1" value="Выполнение ремонтных работ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="240" width="160" height="80" as="geometry" />
+        <mxCell id="8RD01GwfZpLmEbGkj-MV-1" value="Принятие заявки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="clbtRc7gnAqQqjOzCFej-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="300" as="sourcePoint" />
-            <mxPoint x="160" y="300" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="8RD01GwfZpLmEbGkj-MV-2" value="Диагностика" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="clbtRc7gnAqQqjOzCFej-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="260" as="sourcePoint" />
-            <mxPoint x="360" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="clbtRc7gnAqQqjOzCFej-6" value="Заказ клиента" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="clbtRc7gnAqQqjOzCFej-3">
-          <mxGeometry x="0.098" y="4" relative="1" as="geometry">
-            <mxPoint x="-10" y="-6" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="clbtRc7gnAqQqjOzCFej-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="260" as="sourcePoint" />
-            <mxPoint x="720" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="clbtRc7gnAqQqjOzCFej-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="300" as="sourcePoint" />
-            <mxPoint x="720" y="300" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="8RD01GwfZpLmEbGkj-MV-3" value="Выполнение ремонтных работ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
